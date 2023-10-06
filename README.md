@@ -4,11 +4,11 @@ Welcome to my `Python_Projects` repository! Here you'll find a collection of pro
 
 ## Table of Contents
 
-- [Web Development]
-- [Scripting]
-- [Automation/Testing]
-- [Scraping]
-- [Machine Learning]
+- Web Development
+- Scripting
+- Automation/Testing
+- Scraping
+- Machine Learning
 
 ## :computer: Web Development
 
