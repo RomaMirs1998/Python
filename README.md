@@ -32,4 +32,4 @@ The burgeoning domain of machine learning is another arena where Python is domin
 
 ---
 
-I hope this overview provides a good sense of what to expect from this repository. Should you have any questions or suggestions, feel free to reach out to me!
+I hope this overview provides a good sense of what to expect from this repository. Should you have any questions or suggestions, feel free to reach out to me.
